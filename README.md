@@ -67,6 +67,7 @@ Here is a run through of how to set up the application:
 
 ### Versioning
 The second version of remmisma-blog is aimed at removing the above described bug.
+A request from the user's community is adding followers and following features to add more excitement.
 
 ### Technologies used
 * Python 3.6

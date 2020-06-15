@@ -50,7 +50,7 @@ Here is a run through of how to set up the application:
     * Open your preferred browser and view the app by opening the link **http://127.0.0.1:5000/**.
     
 ### Known Bugs 
-* No known bugs with this current iteration,be sure to notify me in case of any.
+* Subscription of users is registered in database but redirection after subscribing to the blog brings an error page.
 
 ### Technologies used
 * Python 3.6
@@ -69,7 +69,7 @@ You can provide feedback or raise any issues/bugs through the following means:
 * stephenremmi@gmail.com
 
 ### Live Site Link
-You can view the live application by following this [link](https://pitch-idea.herokuapp.com/about)
+You can view the live application by following this [link]
 
-### [License](https://github.com/Stephenremmi/pitch-idea/blob/master/LICENSE)
+### [License]()
 MIT license Copyright(c) 2020 **Stephen Remmi**

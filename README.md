@@ -15,6 +15,19 @@
 ### Description
 In life you only have 60 seconds to impress someone.1 minuite can make or break you.How do we make sure you use your 1 minute to actually say something useful.
 
+
+## Behavior Driven Development
+
+| Input                    | Behaviour                       | Output                                       |
+| -------------------------| ------------------------------  | -------------------------------------------- |
+| Subscribe to mail list              | Input the email               | Redirect you to the index page               |
+| Writer login                    | Take you to home page           | Redirect you to the Homepage                 |
+| Create a blog post by filling blog form          | Write your blog and post it to blogs    | Your blog is displayed  in index page                     | 
+| User comment on the Blog post plus a nickname | Write your feedback and post it | Your feedback is displayed under the blog post   |
+| Writer delete a blog post       | Deleting the blog post from the database    | The blog post will be deleted and not appear on the page                  |
+| Writer update a blog post       | Updating the blog post in database    | The blog post will be updated                |
+| Writer delete a comment         | Deleting the blog post in database    | The comment will no longer appear under the post           
+
 ### User Story
 Here are the features in summary:
 * User can create the account and sign in to the app.

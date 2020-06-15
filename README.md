@@ -13,8 +13,7 @@
 [Stephen Remmi](https://github.com/Stephenremmi) ,6/13/2020
 
 ### Description
-In life you only have 60 seconds to impress someone.1 minuite can make or break you.How do we make sure you use your 1 minute to actually say something useful.
-
+A blog where users can view quotes from great techies and iconic figures,can share their passions and can focus on presentng solutions to problems.
 
 ## Behavior Driven Development
 

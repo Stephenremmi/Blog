@@ -1,4 +1,6 @@
 # Blog
+To be part of the remmisma-blog community Sign Up an account and plug in the exciting community;write a blog,share,like and comment.
+
 ![Portfolio landing page Window](https://user-images.githubusercontent.com/61972580/84638670-f9428080-aeff-11ea-9d13-3ae2dc8ae4bf.png)
 ![SignUp Window](https://user-images.githubusercontent.com/61972580/84639431-09a72b00-af01-11ea-84a6-134898bdaa80.png)
 ![Login Window](https://user-images.githubusercontent.com/61972580/84639621-4bd06c80-af01-11ea-89a4-6ae8d7114694.png)

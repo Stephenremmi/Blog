@@ -1,5 +1,5 @@
 # Blog
-To be part of the remmisma-blog community Sign Up an account and plug in the exciting community;write a blog,share,like and comment.
+* To be part of the remmisma-blog community Sign Up an account and plug in the exciting community;write a blog,share,like and comment.
 
 ![Portfolio landing page Window](https://user-images.githubusercontent.com/61972580/84638670-f9428080-aeff-11ea-9d13-3ae2dc8ae4bf.png)
 ![SignUp Window](https://user-images.githubusercontent.com/61972580/84639431-09a72b00-af01-11ea-84a6-134898bdaa80.png)
@@ -15,7 +15,7 @@ To be part of the remmisma-blog community Sign Up an account and plug in the exc
 [Stephen Remmi](https://github.com/Stephenremmi) ,6/13/2020
 
 ### Description
-A blog where users can view quotes from great techies and iconic figures,can share their passions and can focus on presentng solutions to problems.
+* A blog where users can view quotes from great techies and iconic figures,can share their passions and can focus on presentng solutions to problems.
 
 ## Behavior Driven Development
 
@@ -66,8 +66,8 @@ Here is a run through of how to set up the application:
 * Subscription of users is registered in database but redirection after subscribing to the blog brings an error page.
 
 ### Versioning
-The second version of remmisma-blog is aimed at removing the above described bug.
-A request from the user's community is adding followers and following features to add more excitement.
+* The second version of remmisma-blog is aimed at removing the above described bug.
+* A request from the user's community is adding followers and following features to add more excitement.
 
 ### Technologies used
 * Python 3.6

@@ -2,6 +2,7 @@
 ![Portfolio landing page Window](https://user-images.githubusercontent.com/61972580/84638670-f9428080-aeff-11ea-9d13-3ae2dc8ae4bf.png)
 ![SignUp Window](https://user-images.githubusercontent.com/61972580/84639431-09a72b00-af01-11ea-84a6-134898bdaa80.png)
 ![Login Window](https://user-images.githubusercontent.com/61972580/84639621-4bd06c80-af01-11ea-89a4-6ae8d7114694.png)
+![Account settings Window](https://user-images.githubusercontent.com/61972580/84640504-72db6e00-af02-11ea-8e02-09a9d5781481.png)
 ![Settings Window](https://user-images.githubusercontent.com/61972580/84636060-ca76db00-aefc-11ea-8b3a-c05bec01d3ff.png)
 ![Login Window](https://user-images.githubusercontent.com/61972580/84638950-576f6380-af00-11ea-9ca6-de915e12ccb1.png)
 ![Landing page Window](https://user-images.githubusercontent.com/61972580/84636800-ab2c7d80-aefd-11ea-9573-7141ea2e5593.png)

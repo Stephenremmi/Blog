@@ -64,6 +64,7 @@ Here is a run through of how to set up the application:
 * Subscription of users is registered in database but redirection after subscribing to the blog brings an error page.
 
 ### Versioning
+The second version of remmisma-blog is aimed at removing the above described bug.
 
 ### Technologies used
 * Python 3.6

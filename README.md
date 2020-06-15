@@ -63,6 +63,8 @@ Here is a run through of how to set up the application:
 ### Known Bugs 
 * Subscription of users is registered in database but redirection after subscribing to the blog brings an error page.
 
+### Versioning
+
 ### Technologies used
 * Python 3.6
 * Flask

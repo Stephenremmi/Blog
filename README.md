@@ -85,8 +85,10 @@ Here is a run through of how to set up the application:
 You can provide feedback or raise any issues/bugs through the following means:
 * stephenremmi@gmail.com
 
-### Live Site Link
-You can view the live application by following this [link](https://remmisma-blog.herokuapp.com/)
+### Deployment Notice
+This application was previously hosted on Heroku under the free tier.
+Since Heroku discontinued free hosting, the live demo is currently offline.
+The source code remains fully functional and can be run locally.
 
 ### [License](https://github.com/Stephenremmi/Blog/blob/master/LICENSE)
 MIT license Copyright(c) 2020 **Stephen Remmi**
